@@ -2,7 +2,7 @@
 
 List of all the great people and organisations that help me fund my open source work.
 
-If you want to help support check out my Patreon at https://patreon.com/juliangruber
+If you want to help support check out my Patreon at https://patreon.com/juliangruber.
 
 # Leaders
 
