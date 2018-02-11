@@ -12,3 +12,4 @@ _None_
 
 * [Feross Aboukhadijeh](https://www.patreon.com/feross)
 * [CodePilot.ai](https://www.patreon.com/user?u=9715674)
+* [Joseph Werle](https://www.patreon.com/jwerle)
